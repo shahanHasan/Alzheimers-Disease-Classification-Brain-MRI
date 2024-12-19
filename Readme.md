@@ -77,27 +77,27 @@ The **ADNI Dataset** was used, consisting of brain MRI scans categorized into th
 ### InceptionV3 Results
 
 #### GradCAM Visualization
-![InceptionV3 GradCAM](Multi-Class Classification/Inception/GradCam.jpg)
+![InceptionV3 GradCAM](./Multi-Class Classification/Inception/GradCam.jpg)
 
 #### Heatmap
-![InceptionV3 Heatmap](/Multi-Class Classification/Inception/HeatMap.jpeg)
+![InceptionV3 Heatmap](./Multi-Class Classification/Inception/HeatMap.jpeg)
 
 #### Pre-Processed Image
-![Pre-Processed Image](/Multi-Class Classification/Inception/Pre-Processed-Image.png)
+![Pre-Processed Image](./Multi-Class Classification/Inception/Pre-Processed-Image.png)
 
 #### Loss and Accuracy
-![InceptionV3 Loss and Accuracy](/Multi-Class Classification/Inception/loss_acc_1.png)
+![InceptionV3 Loss and Accuracy](./Multi-Class Classification/Inception/loss_acc_1.png)
 
 ### Vision Transformer (Random Initialization) Results
 
 #### Attention Visualization
-![ViT Random Init Attention](/Multi-Class Classification/Vit/Attention_view_B16_BF.jpg)
+![ViT Random Init Attention](./Multi-Class Classification/Vit/Attention_view_B16_BF.jpg)
 
 #### Heatmap
-![ViT Random Init Heatmap](/Multi-Class Classification/Vit/HeatMap_B16.jpeg)
+![ViT Random Init Heatmap](./Multi-Class Classification/Vit/HeatMap_B16.jpeg)
 
 #### Loss and Accuracy
-![ViT Random Init Loss and Accuracy](/Multi-Class Classification/Vit/loss_acc_1.png)
+![ViT Random Init Loss and Accuracy](./Multi-Class Classification/Vit/loss_acc_1.png)
 
 ---
 
