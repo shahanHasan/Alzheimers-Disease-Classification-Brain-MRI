@@ -77,7 +77,7 @@ The **ADNI Dataset** was used, consisting of brain MRI scans categorized into th
 ### InceptionV3 Results
 
 #### GradCAM Visualization
-![InceptionV3 GradCAM](/Multi-Class Classification/Inception/GradCam.jpg)
+![InceptionV3 GradCAM](Multi-Class Classification/Inception/GradCam.jpg)
 
 #### Heatmap
 ![InceptionV3 Heatmap](/Multi-Class Classification/Inception/HeatMap.jpeg)
